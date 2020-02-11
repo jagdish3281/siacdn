@@ -4,4 +4,4 @@ metadata:
   name: siacdn-certificate-toplevel
 spec:
   domains:
-    - siacdn.com
+    - skynethub.io
