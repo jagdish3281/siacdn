@@ -1,4 +1,4 @@
-# SiaCDN
+# SkyNet Hub
 
 SiaCDN is a high-quality hosted Skynet node.
 
